@@ -4,6 +4,8 @@ Offline map data for the Navigatore Gravel app (Android, personal project): vect
 road network for turn analysis. The files are published as **GitHub Releases** of this repository; the app
 downloads only the area the user picks.
 
+**Status (2026-11-17):** project paused – the app has a single user, zones are prepared locally. Only the Karlsruhe test map is published.
+
 This repository contains **data only**. No code, no personal data.
 
 ## Source, licence and attribution
@@ -28,5 +30,4 @@ Terrain elevation and routing data are **not** published here.
 
 | Release | Content |
 |---|---|
-| `area-2026-11` | Italy, Switzerland, France, Germany, Austria: 5 maps (one per country, 4.4 GB) and 821 road squares (4.4 GB) |
 | `test-karlsruhe` | Test of the download method: one map file (Regierungsbezirk Karlsruhe, OSM data of 2026-11-08) |
